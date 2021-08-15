@@ -1,0 +1,22 @@
+{
+  "name": "@etfdev/stylelint-config",
+  "version": "0.1.0",
+  "description": "An opinionated collection of Stylelint rules. To be imported into other projects or used as a boilerplate for futher Stylelint configurations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericfledderman/stylelint-config.git"
+  },
+  "keywords": [
+    "stylelint"
+  ],
+  "author": "Eric Fledderman <ericfledderman@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericfledderman/stylelint-config/issues"
+  },
+  "homepage": "https://github.com/ericfledderman/stylelint-config#readme"
+}
