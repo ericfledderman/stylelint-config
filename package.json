@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ericfledderman/stylelint-config/issues"
   },
-  "homepage": "https://github.com/ericfledderman/stylelint-config#readme"
+  "homepage": "https://github.com/ericfledderman/stylelint-config#readme",
+  "devDependencies": {
+    "stylelint-config-standard": "^22.0.0"
+  }
 }

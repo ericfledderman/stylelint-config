@@ -1,5 +1,7 @@
 module.exports = {
   extends : [
+    'stylelint-config-standard',
+
     // Points out potential runtime errors in your code
     './rules/errors',
 
